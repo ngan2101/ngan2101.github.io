@@ -2685,6 +2685,7 @@ input, select, textarea {
 		display: flex;
 		cursor: default;
 		list-style: none;
+		justify-content: center;
 		margin-left: -1rem;
 		padding-left: 0;
 	}
@@ -4687,3 +4688,13 @@ input, select, textarea {
 		}
 
 	}
+	
+	
+	.resume-section {
+		text-align: center;		
+	}
+	.section-heading {
+		text-align: center;
+		padding: 50px 0;
+	}
+
